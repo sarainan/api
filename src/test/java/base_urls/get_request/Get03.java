@@ -1,4 +1,4 @@
-package get_request;
+package base_urls.get_request;
 
 import org.junit.Test;
 
